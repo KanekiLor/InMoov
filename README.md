@@ -27,7 +27,6 @@ This project is a **robotic hand** based on **InMoov**, an open-source humanoid 
 ## 📸 Images & Videos  
 
 ### 🔹 3D-Printed Parts and Assembly  
-![Assembly](https://github.com/KanekiLor/InMoov/blob/main/Media/1.jpg)  
 ![Printed Parts](https://inmoov.fr/hand-and-forarm/)  
 
 ### 🔹 Motion Testing  
