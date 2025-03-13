@@ -1,6 +1,6 @@
 # 🤖 InMoov Robotic Hand
 
-![InMoov Hand](https://i.imgur.com/OCFSRFa.jpg)
+![InMoov Hand](https://github.com/KanekiLor/InMoov/blob/main/Media/1.jpg)
 
 ## 📌 Project Description
 
@@ -27,13 +27,13 @@ This project is a **robotic hand** based on **InMoov**, an open-source humanoid 
 ## 📸 Images & Videos  
 
 ### 🔹 3D-Printed Parts and Assembly  
-![Assembly](https://i.imgur.com/0r6VaBF.jpg)  
-![Printed Parts](https://i.imgur.com/tgchmLE.jpg)  
+![Assembly](https://github.com/KanekiLor/InMoov/blob/main/Media/1.jpg)  
+![Printed Parts](https://inmoov.fr/hand-and-forarm/)  
 
 ### 🔹 Motion Testing  
-https://i.imgur.com/lOZJLGD.mp4  
-https://i.imgur.com/KYjzZTu.mp4  
-
+https://github.com/KanekiLor/InMoov/blob/main/Media/WhatsApp%20Video%202025-03-13%20at%2012.03.54.mp4
+https://github.com/KanekiLor/InMoov/blob/main/Media/WhatsApp%20Video%202025-03-13%20at%2012.03.57.mp4
+https://github.com/KanekiLor/InMoov/blob/main/Media/WhatsApp%20Video%202025-03-13%20at%2012.04.07.mp4
 ---
 
 ## 🚀 Setup & Usage
